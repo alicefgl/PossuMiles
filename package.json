@@ -1,0 +1,14 @@
+{
+  "name": "PossuMiles",
+"version": "1.0.0",
+"description": "Lets Play Dead",
+"main": "server.js",
+"scripts": {
+  "start": "node server.js"
+},
+"dependencies": {
+  "express": "^4.17.1",
+  "body-parser": "^1.20.2",
+  "ws": "^7.3.0"
+}
+}
